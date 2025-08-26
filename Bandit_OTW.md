@@ -59,3 +59,4 @@ Here, we used the `ls` command to view the content of the home directory, in ord
 
 Here, we used the command `cat` to show the content of the readme file, and doing so, we found the password within it.
 
+
